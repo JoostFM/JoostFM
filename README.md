@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoostFM
 - 👀 I’m interested in automation and radio
-- 🌱 I’m currently learning to tame the GPIO on a Pi with Python
+- 🌱 I’m currently doing things with Jamstack & 11ty
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
